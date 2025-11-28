@@ -29,10 +29,12 @@ Useful starter for building 2D games, visualizations, or interactive application
 
 2.) Install node modules
 
-``` npm install
+``` 
+npm install
 ```
 
 3.) Run in development mode
 
-``` npm run dev
+``` 
+npm run dev
 ```
